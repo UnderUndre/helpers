@@ -4,9 +4,12 @@
 [submodule "unet"]
 	path = unet
 	url = git@github.com:UnderUndre/unet.git
-[submodule "undev"]
-	path = undev
-	url = git@github.com:UnderUndreGH/undev.git
+[submodule "undevops"]
+	path = undevops
+	url = git@github.com:UnderUndre/undevops.git
 [submodule "underblog"]
 	path = underblog
 	url = git@github.com:UnderUndre/underblog.git
+[submodule "undesign"]
+	path = undesign
+	url = git@github.com:UnderUndre/undesign.git

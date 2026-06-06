@@ -1,0 +1,12 @@
+[submodule "under-ai-helpers"]
+	path = under-ai-helpers
+	url = git@github.com:UnderUndre/under-ai-helpers.git
+[submodule "unet"]
+	path = unet
+	url = git@github.com:UnderUndre/unet.git
+[submodule "undev"]
+	path = undev
+	url = git@github.com:UnderUndreGH/undev.git
+[submodule "underblog"]
+	path = underblog
+	url = git@github.com:UnderUndre/underblog.git
